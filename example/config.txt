@@ -1,0 +1,2 @@
+Prefix plugins/ComplementBED/example/
+Plugin ComplementBED inputfile parameters.txt outputfile complement.txt

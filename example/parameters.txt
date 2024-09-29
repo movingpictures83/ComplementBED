@@ -1,0 +1,2 @@
+bedfile	plugins/ComplementBED/example/A.bed
+genome	plugins/ComplementBED/example/mouse.mm9.genome
